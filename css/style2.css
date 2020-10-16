@@ -1,0 +1,72 @@
+#contact-btn{
+    background-color: #007bff00;
+    border: 3px solid white;
+    border-radius: 15px;
+}
+#a-contactbtn{
+    display: initial;
+}
+
+.searchicon{
+    color:white;
+}
+#page-heading{
+    color:white;
+}
+#page-heading-sub{
+    color:#10641b;
+    text-align: center;
+}
+.aboutdesc h1::before{
+    content: '';
+    position: relative;
+    display: block;
+    width: 100px;
+    height: 5px;
+    background: #10641b;
+    bottom: 20px;
+    left: calc(6% - 30px);
+}
+#abtimg{
+    border-radius: 35px;
+    height: 460px;
+    box-shadow: -1px -1px 15px 10px #c7c4c4;
+}
+.aboutdescheading{
+    font-size: 45px;
+    color: black;
+    margin-top: 60px;
+}
+.abouttxt-section-row{
+    margin-top:40px;
+}
+#founder-section{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+#founderimg{
+    margin-top: -60px;
+    border-radius: 35px;
+    height: 460px;
+    box-shadow: 0px 15px 10px 0px #c7c4c4;
+}
+#quote{
+    color: #10641b;
+    font-size: 120px;
+}
+#quotetxt1{
+    color: #10641b;
+}
+#quotetxt2
+{
+    color: #10641b;
+    font-weight: 500;
+}
+#quotetxt3{
+    color: #10641b;
+}
+#sm{
+    font-size:30px;
+    padding-left:10px;
+    padding-right:10px;
+}
